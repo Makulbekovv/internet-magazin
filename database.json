@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "name": "Casio EFV-570D-2AVUEF",
+      "brand": "Casio",
+      "price": 13677,
+      "description": "EFV-570D-2AVUEF, Мужские, Casio EFV-570D-2AVUEF,EFV-570D-2AVUEF",
+      "image": "https://watchman.su/image/cache/import_files/46/466bf343-f23d-11e8-8828-1c1b0d0e88d4_f02a7773-f936-11e8-bb89-bc5ff4dbb32f-1024x1024.jpeg",
+      "color": "gray",
+      "id": 20
+    },
+    {
+      "name": "Casio MCW-100H-1A",
+      "brand": "Casio",
+      "price": 13000,
+      "description": "MCW-100H-1A, Мужские, Casio MCW-100H-",
+      "image": "https://diamondelectric.ru/images/1977/1976226/casio_mcw100h1a1_1.jpg",
+      "color": "black",
+      "id": 21
+    },
+    {
+      "name": "Часы мужские Rolex Daytona (механика, белый циферблат)",
+      "brand": "Rolex",
+      "price": 2000,
+      "description": "Часы мужские Rolex Daytona механические (белый циферблат) ЧАСЫ ОТ МИРОВЫХ ЛИДЕРОВ – НА ОДИН ШАГ БЛИЖЕ К УСПЕХУ! ...",
+      "image": "https://images.ru.prom.st/462698991_w640_h640_chasy-muzhskie-rolex.jpg",
+      "color": "gold",
+      "id": 22
+    },
+    {
+      "name": "Часы наручные CURREN муж.браслет",
+      "brand": "Curren",
+      "price": 50000,
+      "description": "Наручные часы Часы наручные CURREN муж.браслет с календарем",
+      "image": "https://ae01.alicdn.com/kf/HTB1xKl.XiOYBuNjSsD4q6zSkFXao/CURREN-8103-Luxury-Brand-Stainless-Steel-Strap-Analog-Display-Date-Men-s-Quartz-Watch-Casual-Watch.jpg",
+      "color": "gray",
+      "id": 23
+    },
+    {
+      "name": "Sokolov",
+      "brand": "Sokolov",
+      "price": 100000,
+      "description": "Серебряные мужские часы \"СВОБОДА\"",
+      "image": "https://serebryanaya-posuda.moscow/components/com_jshopping/files/img_products/full_135.30.00.000.02.01.3.jpg",
+      "color": "black",
+      "id": 24
+    },
+    {
+      "name": "Curren",
+      "brand": "Curren",
+      "price": 30000,
+      "description": "Наручные часы Часы наручные CURREN мужские на браслете",
+      "image": "https://time-world.ru/wa-data/public/shop/products/49/33/53349/images/175248/175248.970.jpg",
+      "color": "space-gray",
+      "id": 25
+    },
+    {
+      "name": "Rolex Cosmograph Daytona 116505 Арт. 1800",
+      "brand": "Rolex",
+      "price": 75000,
+      "description": "Вряд ли можно найти человека, который никогда не слышал о часах Ролекс. Этот бренд стойко ассоциируется с миром арист...",
+      "image": "https://images.ru.prom.st/701220963_w640_h640_rolex-cosmograph-daytona.jpg",
+      "color": "gold",
+      "id": 26
+    },
+    {
+      "name": "Rolex",
+      "brand": "Rolex",
+      "price": 20000,
+      "description": "Точная копия швейцарских часов Rolex модель ro8932",
+      "image": "https://www.replica-watchess.ru/images/products/ro8932-biggest.jpg",
+      "color": "space-gray",
+      "id": 27
+    }
+  ]
+}

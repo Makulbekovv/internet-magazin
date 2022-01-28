@@ -1,0 +1,67 @@
+.area {
+  font-size: 30px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-left: -12%;
+  color: #fff;
+  transform: translate(0%, -50%);
+  background: linear-gradient(90deg, grey, white, grey);
+  animation: animate 5s linear infinite;
+  background-size: 90%;
+  background-repeat: no-repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes animate {
+  from {
+    background-position: -1000%;
+  }
+
+  to {
+    background-position: 1000%;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .area {
+    font-size: 25px;
+  }
+  #video2 {
+    min-height: 0;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  #video2 {
+    min-height: 0;
+  }
+  .area {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .area {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .area {
+    font-size: 15px;
+    margin-left: 12%;
+  }
+}
+@media screen and (max-width: 680px) {
+  .area {
+    font-size: 15px;
+    margin-left: 10%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .area {
+    font-size: 10px;
+    margin-left: -10%;
+  }
+}
