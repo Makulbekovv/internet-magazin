@@ -1,1 +1,1 @@
-export const API ='http://localhost:8000/products'
+export const API = "https://golden-time-kg.herokuapp.com/api";
