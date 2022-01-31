@@ -4,7 +4,7 @@ import { ClientContext } from "../contexts/ClientProvider";
 import Video from "../components/Video";
 import WatchText from "./WatchText";
 import ProWatch from "./ProWatch";
-import ProductsPagination from "../components/ProductsPagination";
+// import ProductsPagination from "../components/ProductsPagination";
 
 const MainPage = (props) => {
   const { getProducts, mainPageProducts } = useContext(ClientContext);

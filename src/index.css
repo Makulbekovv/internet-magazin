@@ -197,6 +197,13 @@ html {
 
 /* media */
 
+@media screen and (max-width: 991px) {
+  .css-a5rdam-MuiGrid-root {
+    /* margin-left: 5% !important; */
+    justify-content: center;
+  }
+}
+
 @media screen and (max-width: 768px) {
   #video2 {
     min-height: 0;
